@@ -13,7 +13,7 @@ plotdata(X,y)
 % You can set your loss value however you wish. 
 
 lossval = 1; 
-while lossval > 0.12
+while lossval > 0.03
     [mdl,FitInfo] = fitckernel(X,y);
     lossval = loss(mdl,X,y)
 end
