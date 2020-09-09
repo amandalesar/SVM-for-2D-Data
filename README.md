@@ -28,7 +28,7 @@ What if we have a more complicated dataset, which requires non-linear classifica
 
 My sample dataset is plotted below, with "positive" examples indicated as "x" and "negative" examples indicated with "o". However, you can load your own dataset into this function to separate your own data!
 
-![nonlineardata](https://github.com/amandalesar/svm_2ddata/blob/master/svmimages/nonlineardata.jpg)
+![nonlineardata](https://github.com/amandalesar/svm_2ddata/blob/master/svmimages/nonlienardata.jpg)
 
 We can observe that there is no linear decision boundary which will reasonably separate the positive and negative examples in our dataset.
 
